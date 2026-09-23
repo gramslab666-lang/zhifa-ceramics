@@ -1,0 +1,23 @@
+ZHIFA CERAMICS V8 FINAL
+
+READY STRUCTURE
+- index.html
+- style.css
+- script.js
+- existing local production video/assets folders
+
+CATALOG
+Catalog product images are referenced from the existing ZHIFA CERAMICS GitHub Pages website.
+This preserves the same product photography already used on the old site.
+
+CONTACTS
+Phone: +998 77 053 99 98
+Email: Moneygramm@mail.ru
+Telegram: @TGctrlcore
+Instagram: @Zhifa_Ceramics
+
+GITHUB PAGES
+Upload the CONTENTS of the zhifa_v8_final folder to the publishing branch/folder used by your site.
+index.html must remain at the published root.
+
+Before replacing a live site, keep a backup of the current repository.
